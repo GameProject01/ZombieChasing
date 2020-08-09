@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bf1a5ad4f9ffb154ca7813fdad11017a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerCamera: {instanceID: 0}
+  - Crosshair: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  - fps_Rigidbody: {instanceID: 0}
+  - head: {instanceID: 0}
+  - jumpSound: {instanceID: 0}
+  - landSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
